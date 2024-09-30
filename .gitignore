@@ -1,0 +1,4 @@
+data/*
+json/*
+!data/mnist_data/*
+!data/mnist_picture/*
