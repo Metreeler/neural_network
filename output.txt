@@ -1,0 +1,27 @@
+Loading train values ...
+Loading test values ...
+Initiating neural network ...
+1.0
+Training ...
+Epoch : 0 Validation set :  Loss : 0.045 Accuracy : 0.685
+Epoch : 1 Validation set :  Loss : 0.033 Accuracy : 0.776
+Epoch : 2 Validation set :  Loss : 0.027 Accuracy : 0.816
+Epoch : 3 Validation set :  Loss : 0.023 Accuracy : 0.842
+Epoch : 4 Validation set :  Loss : 0.021 Accuracy : 0.858
+Epoch : 5 Validation set :  Loss : 0.02 Accuracy : 0.869
+Epoch : 6 Validation set :  Loss : 0.018 Accuracy : 0.878
+Epoch : 7 Validation set :  Loss : 0.017 Accuracy : 0.884
+Epoch : 8 Validation set :  Loss : 0.017 Accuracy : 0.889
+Epoch : 9 Validation set :  Loss : 0.016 Accuracy : 0.893
+Epoch : 10 Validation set :  Loss : 0.015 Accuracy : 0.896
+Epoch : 11 Validation set :  Loss : 0.015 Accuracy : 0.9
+Epoch : 12 Validation set :  Loss : 0.014 Accuracy : 0.902
+Epoch : 13 Validation set :  Loss : 0.014 Accuracy : 0.906
+Epoch : 14 Validation set :  Loss : 0.014 Accuracy : 0.907
+Epoch : 15 Validation set :  Loss : 0.014 Accuracy : 0.908
+Epoch : 16 Validation set :  Loss : 0.013 Accuracy : 0.91
+Epoch : 17 Validation set :  Loss : 0.013 Accuracy : 0.912
+Epoch : 18 Validation set :  Loss : 0.013 Accuracy : 0.915
+Epoch : 19 Validation set :  Loss : 0.012 Accuracy : 0.918
+Testing ...
+0.9266
